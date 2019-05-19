@@ -6,3 +6,5 @@ Website and Blog
 	void main (void) {
 		return 0
 	}
+
+![](images/computer_monkey.gif)
