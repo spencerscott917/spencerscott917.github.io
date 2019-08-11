@@ -1,5 +1,4 @@
-# spencerscott917.github.io
-Website and Blog
+Blog
 
 ## Post 1
 Hi! My name is Spencer Scott, and I am a first year grad student in Astronomy at the University of Arizona where I work with Peter Behroozi on galaxy formation/evoilution using the UniverseMachine.
